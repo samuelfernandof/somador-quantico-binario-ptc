@@ -3,9 +3,6 @@
 Aluno: Samuel Fernando F. Silva  
 
  
-Aqui está a versão formatada corretamente em **Markdown**:
-
----
 
 # **Somador Binário Quântico com Qiskit**
 
